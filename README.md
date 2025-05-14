@@ -1,5 +1,5 @@
 # GPT from scratch
-- A smaller implementation of the GPT architecture in terms of hyperparameter size. 
+- Replicated GPT-1 architecture with scaled-down hyperparameters. 
 - Uses a character level tokenization. 
 - A Decoder only transformer is used.
 - Self attention mechanism implemented from scratch.
